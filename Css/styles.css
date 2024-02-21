@@ -1,0 +1,20 @@
+.nav {
+  margin-top: 59px;
+}
+.nav-btn {
+  background-color: #b68c5a;
+  color: white;
+  border-radius: 5px;
+  padding-top: 17px;
+  padding-left: 39px;
+  padding-bottom: 17px;
+  padding-right: 39px;
+  font-size: 20px;
+  font-weight: bold;
+  border: 0px;
+}
+
+.ul{
+font-weight: bold;
+color: rgb(150, 150, 150);
+}
