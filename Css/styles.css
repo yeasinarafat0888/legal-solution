@@ -1,5 +1,16 @@
+
+.body{
+  margin-left: 375px;
+  margin-right: 375px;
+}
+
+/* Navigation Bar Styles */
 .nav {
   margin-top: 59px;
+
+}
+.navbar{
+  margin-bottom: 50px;
 }
 .nav-btn {
   background-color: #b68c5a;
@@ -17,4 +28,35 @@
 .ul{
 font-weight: bold;
 color: rgb(150, 150, 150);
+}
+
+/* Banner Styles */
+.banner{
+  background-image: url("/images/banner.png");
+  background-repeat: no-repeat;
+  padding-top: 104px;
+  padding-bottom: 104px;
+  width: auto;
+  
+}
+.banner > h1,p{
+color: white;
+text-align: center;
+}
+
+input{
+  padding-top: 20px;
+  padding-bottom: 19px;
+  padding-left: 20px;
+  padding-right: 314px;
+  border-radius: 5px;
+  border: 0px;
+}
+.search-button{
+  text-align: center;
+  align-items: center;
+  padding-bottom: 104px;
+}
+.search-button > button{
+  margin-left: 24px;
 }
